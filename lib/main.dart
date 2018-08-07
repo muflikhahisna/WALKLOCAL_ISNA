@@ -60,7 +60,7 @@ class MyApp extends StatelessWidget{
                             padding: const EdgeInsets.fromLTRB(0.0, 0.0, 0.0, 8.0),
                             child: Text("MINGGU, 20 OKTOBER 2018"),
                           ),
-                          Text("Selamat Pagi", style:
+                          Text("Selamat Sore", style:
                             TextStyle(
                               fontWeight: FontWeight.bold,
                               fontSize: 23.0
